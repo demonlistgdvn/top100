@@ -183,7 +183,7 @@ const d = {
 				{
 					"user": "kientong345",
 					"link": "https://www.youtube.com/watch?v=3XRiTm-hR7Q",
-					"percent": 81,
+					"percent": 100,
 					"hz": "PC - High Refresh Rate"
 				},
 			],

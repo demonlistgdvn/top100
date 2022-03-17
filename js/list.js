@@ -67,91 +67,133 @@ const d = {
                 {
                 "vids": [
 			],
-                       "name": "Sonic Wave",
-                       "author": "axyb",
+                       "name": "Sunset Sandstorm",
+                       "author": "crohn44 [mephiles175]",
                        "more": "none",
-                       "id": 26681070,
-                       "pass": "112516",
-                       "percentToQualify": 100,
-                       "verificationVid": "https://www.youtube.com/watch?v=OU7EftyQqk4",
+                       "id": 55547703,
+                       "pass": "596247",
+                       "percentToQualify": 52,
+                       "verificationVid": "https://www.youtube.com/watch?v=lJz1mv_qh88",
                        "key": 3
                 },
 		/*=================================================================================*/
 		{
                 "vids": [
+			{
+					"user": "SoulSilver Jr.",
+					"link": "https://www.youtube.com/watch?v=GDC7KMMVsm8",
+					"percent": 100,
+					"hz": "Mobile - Low Refresh Rate"
+				},
+			{
+					"user": "MagnusVN",
+					"link": "https://www.youtube.com/watch?v=LwveqfqGOAg",
+					"percent": 53,
+					"hz": "PC - High Refresh Rate"
+				},
+			{
+					"user": "dangkhoi",
+					"link": "https://kekma.ga",
+					"percent": 44,
+					"hz": "Mobile - Low Refresh Rate"
+				},
                        ],
-                       "name": "Generic Wave",
-                       "author": "axyb",
-                       "more": "none",
-                       "id": 49576382,
-                       "pass": "210317",
-                       "percentToQualify": 100,
-                       "verificationVid": "https://www.youtube.com/watch?v=RL-c3PM4uhk",
+                       "name": "Celestial Force",
+                       "author": "MindCap and more [mephiles175]",
+                       "more": "GaidenHertuny, HelpegasuS, GeometryTom, MrLorenzo, JustBasic, Auntex, Xyriak, MindCap, Soulax, Djoxy, Elayad, Manheadrambo, Stormy97, Hoshikido, Wless, Jihn, Zafkiel",
+                       "id": 47237400,
+                       "pass": "772002",
+                       "percentToQualify": 42,
+                       "verificationVid": "https://www.youtube.com/watch?v=mSVZYm-o6ts",
                        "key": 4
                 },
         /*=================================================================================*/
 		{   
 		"vids": [
 		          ],
-                       "name": "xo",
-                       "author": "axyb",
+                       "name": "Paroxysm",
+                       "author": "Lemons [Kanota]",
                        "more": "none",
-                       "id": 58825144,
-                       "pass": "0007",
-                       "percentToQualify": 100,
-                       "verificationVid": "https://www.youtube.com/watch?v=bMRn5JziLFI",
+                       "id": 42631377,
+                       "pass": "40400",
+                       "percentToQualify": 54,
+                       "verificationVid": "https://www.youtube.com/watch?v=XSvy-0_U8Bc",
                        "key": 5
                 },
 		/*=================================================================================*/
 		{
                 "vids": [
+			{
+					"user": "NTQA",
+					"link": "https://www.youtube.com/watch?v=wnOEHJqAHF4",
+					"percent": 54,
+					"hz": "PC - High Refresh Rate"
+				},
                          ],
-                       "name": "Yatagarasu",
-                       "author": "axyb",
-                       "more": "none",
-                       "id": 28220417,
-                       "pass": "Not Copyable",
-                       "percentToQualify": 100,
-                       "verificationVid": "https://www.youtube.com/watch?v=5H4g1b-0eRs",
+                       "name": "Boogie",
+                       "author": "DigitalZero and more [mephiles175]",
+                       "more": "MiniWheatDuo, Brittank88, Gizbro, Sequex, TheGalaxyCat, Wahffle, SaturnV7, Syn, AlrexX, Awedsy, DigitalZero, Delrasshial, LuX, CDMusic, Zincate, starry, eXomin, Crispybag, Marcel, DashyBois, TheYeasoN, Holy, v0ltGD, LekuGD, Heso, Bedrock, Pyrox, Bigmac, M3mber, PaintingOrange, Walghani, EDoosh, Nexorous, Ezys5, ArFace, MegalynX, Rebix, Daycore, LockedDBZ, Nelluque, Stevokoriko, Noobiestskill",
+                       "id": 72873416,
+                       "pass": "Free Copy",
+                       "percentToQualify": 53,
+                       "verificationVid": "https://www.youtube.com/watch?v=YbuPw-uHFN0",
                        "key": 6
                 },
 		/*=================================================================================*/
 				{
                 "vids": [
+			{
+					"user": "noeruchan",
+					"link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+					"percent": 81,
+					"hz": "PC - High Refresh Rate"
+				},
 		         ],
-                       "name": "Erebus",
-                       "author": "axyb",
-                       "more": "none",
-                       "id": 31462941,
-                       "pass": "231846",
-                       "percentToQualify": 100,
-                       "verificationVid": "https://www.youtube.com/watch?v=izx0Rx7BfY8",
+                       "name": "Digital Descent",
+                       "author": "Viprin and more [Kanota]",
+                       "more": "Codex, Kips, nasgubb, Terron, AbstractDark, Samifying, Manix648, ViPriN, TheDevon, Etzer, Loogiah, LazerBlitz, G4lvatron, KrmaL, Vlacc, Serponge, Hinds, Rustam",
+                       "id": 37456092,
+                       "pass": "Free To Copy",
+                       "percentToQualify": 56,
+                       "verificationVid": "https://www.youtube.com/watch?v=lnW4OtFSyls",
                        "key": 7
                 },
 		/*=================================================================================*/
 		{
 			"vids": [
 			],
-			"name": "Stalemate Redux",
-			"author": "axyb",
+			"name": "Omicron",
+			"author": "Team Proxima [WMirror]",
 			"more": "none",
-			"id": 60988234,
-			"pass": "Free to copy",
-			"percentToQualify": 100,
-			"verificationVid": "https://youtu.be/0apDrdHCcuo",
+			"id": NaN,
+			"pass": "NaN",
+			"percentToQualify": 50,
+			"verificationVid": "https://www.youtube.com/watch?v=2M857hbJXNM",
 			"key": 8
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "Kanota",
+					"link": "https://www.youtube.com/watch?v=wuZZXcadR8Q",
+					"percent": 100,
+					"hz": "PC - High Refresh Rate"
+				},
+				{
+					"user": "kientong345",
+					"link": "https://www.youtube.com/watch?v=3XRiTm-hR7Q",
+					"percent": 81,
+					"hz": "PC - High Refresh Rate"
+				},
 			],
-			"name": "Rate Demon",
-			"author": "axyb",
+			"name": "Artificial Ascent",
+			"author": "GeoStorm [lBoke]",
 			"more": "none",
-			"id": 44860762,
-			"pass": "Not Copyable",
-			"percentToQualify": 100,
-			"verificationVid": "https://www.youtube.com/watch?v=stJfeo4-nQk",
+			"id": 63560498,
+			"pass": "Free Copy",
+			"percentToQualify": 53,
+			"verificationVid": "https://www.youtube.com/watch?v=6cvdn6qyzH8",
 			"key": 9
 		},
 		/*=================================================================================*/

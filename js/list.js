@@ -705,7 +705,7 @@ const d = {
 			"author": "Mojitoz and more [Korvak]",
 			"more": "Texic, Picaaaa, Sting871, Electro543, Df0rDie, Endevvor, Mojitoz, ViralDl, Netaren, Leynar, Hir0shi, Vex01, N3moProd, Alkatreize",
 			"id": 61591522,
-			"pass": "Free Copy,
+			"pass": "Free Copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=s1RcWDxYb8s",
 			"key": 31
@@ -743,7 +743,7 @@ const d = {
 			"key": 33
 		},
 		/*=================================================================================*/
-				{
+		{
 			"vids": [
 				{
 					"user": "Korvak",

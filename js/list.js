@@ -201,155 +201,241 @@ const d = {
 	        {
 		"vids": [
 		         ],
-                       "name": "Bausha Vortex",
-                       "author": "axyb",
+                       "name": "Black Blizzard",
+                       "author": "KrmaL [mephiles175]",
                        "more": "none",
-                       "id": 30380566,
-                       "pass": "210317",
-                       "percentToQualify": 100,
-                       "verificationVid": "https://www.youtube.com/watch?v=m751UWhP048",
+                       "id": 34057654,
+                       "pass": "6",
+                       "percentToQualify": 52,
+                       "verificationVid": "https://www.youtube.com/watch?v=mmL_IZ65sZg",
                        "key": 10
                 },
 		/*=================================================================================*/
 		{
 		        "vids": [
 				{
-					"user": "Soulsilver Jr.",
-					"link": "https://www.youtube.com/watch?v=n9UPVFpTFN4",
+					"user": "noeruchan",
+					"link": "https://www.youtube.com/watch?v=eVJ9z-vXWxU",
 					"percent": 100,
-					"hz": "Mobile"
+					"hz": "PC - High Refresh Rate"
+				},
+				{
+					"user": "lBoke",
+					"link": "https://www.youtube.com/watch?v=TY-QdH0MENs",
+					"percent": 100,
+					"hz": "PC - High Refresh Rate"
+				},
+				{
+					"user": "Kanota",
+					"link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+					"percent": 95,
+					"hz": "PC - High Refresh Rate"
+				},
+				{
+					"user": "Pillowplayz",
+					"link": "https://www.youtube.com/watch?v=rTKtemDsUgY",
+					"percent": 81,
+					"hz": "PC - High Refresh Rate"
+				},
+				{
+					"user": "microwavegmd",
+					"link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+					"percent": 55,
+					"hz": "PC - High Refresh Rate"
+				},
+				{
+					"user": "WMirror",
+					"link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+					"percent": 49,
+					"hz": "PC - High Refresh Rate"
 				},
 
 		],
-                       "name": "Audio Expulsion",
-                       "author": "Korvak",
+                       "name": "Auditory Breaker",
+                       "author": "Manix648, Cyclic, Gabs and LazerBlitz [CaustiX]",
                        "more": "none",
-                       "id": 48679353,
-                       "pass": "276943",
-                       "percentToQualify": 100,
-                       "verificationVid": "https://www.youtube.com/watch?v=YZdogtOn7Xw",
+                       "id": 51791710,
+                       "pass": "Free To Copy",
+                       "percentToQualify": 49,
+                       "verificationVid": "https://www.youtube.com/watch?v=N2A4ReGtjyE",
                        "key": 11
                 },
 		/*=================================================================================*/
 			{
 		        "vids": [
+				{
+					"user": "RunokaGD",
+					"link": "https://www.youtube.com/watch?v=26DAAQ5ZrZY",
+					"percent": 100,
+					"hz": "Mobile - Low Refresh Rate"
+				},
+				{
+					"user": "Hito73",
+					"link": "https://www.youtube.com/watch?v=9j0TN-J29WA",
+					"percent": 63,
+					"hz": "PC - Low Refresh Rate"
+				},
+				{
+					"user": "dangkhoi",
+					"link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+					"percent": 70,
+					"hz": "Mobile - Low Refresh Rate"
+				},
+				{
+					"user": "FerrisGD",
+					"link": "https://www.youtube.com/watch?v=hEP0nljPsiw",
+					"percent": 61,
+					"hz": "PC - Low Refresh Rate"
+				},
 			],
-			"name": "Anoxysm",
-			"author": "axyb",
+			"name": "Cadrega Mode",
+			"author": "TCTeam and Pennutoh [mephiles175]",
 			"more": "none",
-			"id": 57430694,
-			"pass": "040400",
-			"percentToQualify": 100,
-			"verificationVid": "https://www.youtube.com/watch?v=yZSQhtKl6VI",
+			"id": 48981134,
+			"pass": "160918",
+			"percentToQualify": 56,
+			"verificationVid": "https://www.youtube.com/watch?v=8gyJH6_tQrM",
 			"key": 12
 		},
 		/*=================================================================================*/
 				{
 			"vids": [
+				{
+					"user": "SoulSilver Jr.",
+					"link": "https://www.youtube.com/watch?v=n9UPVFpTFN4",
+					"percent": 100,
+					"hz": "Mobile - Low Refresh Rate"
+				},
 			],
-			"name": "Cadrega Mode",
-			"author": "mephiles175",
-			"more": "none",
-			"id": 48981134,
-			"pass": "160918",
-			"percentToQualify": 100,
+			"name": "Audio Expulsion",
+			"author": "GoodSmile and more [Korvak]",
+			"more": "Skullkid, Zenith, Thomartin, GoodSmile, Jghost217, Edge, JustBasic, Osiris GD, AbstractDark, Unigeny, Kugelblitz",
+			"id": 48679353,
+			"pass": "276943",
+			"percentToQualify": 56,
 			"verificationVid": "https://www.youtube.com/watch?v=8gyJH6_tQrM",
 			"key": 13
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "Korvak",
+					"link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+					"percent": 45,
+					"hz": "PC - High Refresh Rate"
+				},
 			],
 			"name": "Shock Therapy",
-			"author": "MagnusVN",
-			"more": "none",
+			"author": "Arb and more [MagnusVN]",
+			"more": "Arb, Jenkins GD, Grax, RadiationV2",
 			"id": 57121503,
 			"pass": "Free to copy",
-			"percentToQualify": 100,
+			"percentToQualify": 44,
 			"verificationVid": "https://www.youtube.com/watch?v=Mdxo3a1STxQ",
 			"key": 14
 		},
 		/*=================================================================================*/
 		{
 		        "vids": [
+				{
+					"user": "Korvak",
+					"link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+					"percent": 70,
+					"hz": "PC - High Refresh Rate"
+				},
 			],
-			"name": "The Hell World",
-			"author": "axyb",
+			"name": "ErebuS",
+			"author": "Ilrell and Platnuu [WMirror]",
 			"more": "none",
-			"id": 27904579,
-			"pass": "423816",
-			"percentToQualify": 100,
-			"verificationVid": "https://www.youtube.com/watch?v=ASHx39abpZ4",
+			"id": 31462941,
+			"pass": "231846",
+			"percentToQualify": 62,
+			"verificationVid": "https://www.youtube.com/watch?v=FZYhV8Q5Gts",
 			"key": 15
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
 				{
-					"user": "axyb",
+					"user": "GNZ1111",
 					"link": "https://www.youtube.com/watch?v=m2Esyl-6I0A",
-					"percent": 100,
-					"hz": "Bypass"
+					"percent": 42,
+					"hz": "PC - Low Refresh Rate"
 				},
 			],
-			"name": "Auditory Breaker",
-			"author": "CaustiX",
+			"name": "Athanatos",
+			"author": "Gaero, Herzilo and Exenity [CaustiX]",
 			"more": "none",
-			"id": 51791710,
-			"pass": "Free copy",
-			"percentToQualify": 100,
-			"verificationVid": "https://www.youtube.com/watch?v=N2A4ReGtjyE",
+			"id": 26133601,
+			"pass": "666669",
+			"percentToQualify": 42,
+			"verificationVid": "https://www.youtube.com/watch?v=xUkOqDtyD34",
 			"key": 16
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "axyb",
-					"link": "https://www.youtube.com/watch?v=cpg1bOQ7wMw",
-					"percent": 100,
-					"hz": "Bypass"
-				},
+				
 			],
-			"name": "Athanatos",
-			"author": "CaustiX",
-			"more": "none",
-			"id": 26133601,
-			"pass": "666669",
-			"percentToQualify": 100,
-			"verificationVid": "https://www.youtube.com/watch?v=xUkOqDtyD34",
+			"name": "Adrenaline",
+			"author": "wapon77 and more [MagnusVN]",
+			"more": "Vismuth, Epsilonic, Sikatsuka, koolboom, Nell, Convie, Asuria, Kllnex, Fufafac, Isane, ZWK, Sequex, Kadex, Duffz, Shaun07, iEstia, Lime0037, TheGalaxyCat, ettery, El3ctr0, Belonzik, Skrypto, AstroFox, SyQual, ZelLink, Uriun, KrazyGFX, Kirzok, Orte, Elvii, Esencia, Toasted, Vantablack, Connected, wapon77, Pixizkiel, Gianv, Tent, Revel, Hyperlink, Ryzlesalt, R3ul, Rockwizard5,",
+			"id": 67569996,
+			"pass": "Free Copy",
+			"percentToQualify": 55,
+			"verificationVid": "https://www.youtube.com/watch?v=BqqpJ1nUnFE&t=8s",
 			"key": 17
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "reeseye",
-					"link": "https://www.youtube.com/watch?v=nmKn_bMwYOU",
-					"percent": 100,
-					"hz": "Bypass"
-				},
+				
 			],
-			"name": "Infernal Abyss",
-			"author": "CaustiX",
-			"more": "none",
-			"id": 27379546,
-			"pass": "Not Copyable",
-			"percentToQualify": 100,
-			"verificationVid": "https://www.youtube.com/watch?v=EgjWa1ieNvs",
+			"name": "RASH",
+			"author": "loltad and crumche [mephiles175]",
+			"more": "Vismuth, Epsilonic, Sikatsuka, koolboom, Nell, Convie, Asuria, Kllnex, Fufafac, Isane, ZWK, Sequex, Kadex, Duffz, Shaun07, iEstia, Lime0037, TheGalaxyCat, ettery, El3ctr0, Belonzik, Skrypto, AstroFox, SyQual, ZelLink, Uriun, KrazyGFX, Kirzok, Orte, Elvii, Esencia, Toasted, Vantablack, Connected, wapon77, Pixizkiel, Gianv, Tent, Revel, Hyperlink, Ryzlesalt, R3ul, Rockwizard5,",
+			"id": 69507105,
+			"pass": "Free Copy",
+			"percentToQualify": 53,
+			"verificationVid": "https://www.youtube.com/watch?v=ksizFFs0gTQ",
 			"key": 18
 		},
 		/*=================================================================================*/
 				{
 		        "vids": [
+				{
+					"user": "lBoke",
+					"link": "https://www.youtube.com/watch?v=oo3X7qcGOIo",
+					"percent": 100,
+					"hz": "PC - High Refresh Rate"
+				},
+				{
+					"user": "Zophirux",
+					"link": "https://www.youtube.com/watch?v=3FvJJJLraiU",
+					"percent": 100,
+					"hz": "PC - Low Refresh Rate"
+				},
+				{
+					"user": "NozusVN",
+					"link": "https://www.youtube.com/watch?v=rgJja1ZdQ58",
+					"percent": 46,
+					"hz": "Mobile - Low Refresh Rate"
+				},
+				{
+					"user": "FerrisGD",
+					"link": "https://www.youtube.com/watch?v=XiqZo6bdqgw",
+					"percent": 45,
+					"hz": "PC - Low Refresh Rate"
+				},
 			],
-			"name": "EnvY",
-			"author": "CaustiX",
+			"name": "Springtime",
+			"author": "VigorousGarden [CaustiX]",
 			"more": "none",
-			"id": 45411361,
-			"pass": "314159",
-			"percentToQualify": 100,
-			"verificationVid": "https://www.youtube.com/watch?v=5ZnCVziF-5Y",
+			"id": NaN,
+			"pass": "NaN",
+			"percentToQualify": 45,
+			"verificationVid": "https://www.youtube.com/watch?v=UGAmTQHz9mQ",
 			"key": 19
 		},
 		/*=================================================================================*/

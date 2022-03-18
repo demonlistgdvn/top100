@@ -675,108 +675,90 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "Pillowplayz",
+					"link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+					"percent": 80,
+					"hz": "PC - High Refresh Rate"
+				},
+				{
+					"user": "Tu2rusGD",
+					"link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+					"percent": 53,
+					"hz": "PC - High Refresh Rate"
+				},
 			],
-			"name": "Mirage",
-			"author": "MagnusVN",
-			"more": "none",
-			"id": 63045458,
+			"name": "Idols",
+			"author": "Zafkiel and more [MagnusVN]",
+			"more": "Diris, Herdys, Goyuki, Selun, SrGaton, FarDreamer, Hoshikido, Zed Aurum, Bermard, Oasiz, Hko, Xuranox, Kllnex, Fufafac, GeometryTom, Zenthisuper, Axdrel, Yuno, Auntex, Zafkiel",
+			"id": 48175126,
 			"pass": "Free to copy",
-			"percentToQualify": 100,
-			"verificationVid": "https://www.youtube.com/watch?v=UVV-Yj4O-XE",
+			"percentToQualify": 53,
+			"verificationVid": "https://m.youtube.com/watch?v=WICrwmPynrs",
 			"key": 30
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
 			],
-			"name": "The Hell Factory",
-			"author": "Soulsilver Jr.",
-			"more": "none",
-			"id": 15265393,
-			"pass": "Not Copyable",
-			"percentToQualify": 100,
-			"verificationVid": "https://www.youtube.com/watch?v=F6UkLlRh28o",
+			"name": "Inflective",
+			"author": "Mojitoz and more [Korvak]",
+			"more": "Texic, Picaaaa, Sting871, Electro543, Df0rDie, Endevvor, Mojitoz, ViralDl, Netaren, Leynar, Hir0shi, Vex01, N3moProd, Alkatreize",
+			"id": 61591522,
+			"pass": "Free Copy,
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=s1RcWDxYb8s",
 			"key": 31
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "Hito73",
-					"link": "https://www.youtube.com/watch?v=QLviqIijq8U",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "Tu2rusGD",
-					"link": "https://www.youtube.com/watch?v=idqoGBoPjFw",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "TheRealWind",
-					"link": "https://www.youtube.com/watch?v=DNjoVPqoD5c",
-					"percent": 70,
-					"hz": "Mobile"
-				},
-				{
-					"user": "kientong345",
-					"link": "https://www.youtube.com/watch?v=zvSg9rTRFuI",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "WMirror",
-					"link": "https://www.youtube.com/watch?v=assiYVEbV0Q",
-					"percent": 100,
-					"hz": "60hz"
-				},
 			],
-			"name": "Esencia",
-			"author": "MagnusVN",
+			"name": "Prismatic Haze",
+			"author": "Gizbro and Cirtrax [Korvak]",
 			"more": "none",
-			"id": 54988894,
-			"pass": "343661",
-			"percentToQualify": 100,
-			"verificationVid": "https://www.youtube.com/watch?v=iieSbCKaHVc",
+			"id": 59899374,
+			"pass": "Free Copy",
+			"percentToQualify": 64,
+			"verificationVid": "https://www.youtube.com/watch?v=htz5w-iwEuw",
 			"key": 32
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "SoulSilver Jr.",
+					"link": "https://www.youtube.com/watch?v=DpEDye38fAk",
+					"percent": 100,
+					"hz": "Mobile - Low Refresh Rate"
+				},
 			],
-			"name": "WaveBreaker",
-			"author": "Aquatic",
+			"name": "Aurora",
+			"author": "TheKris [CaustiX]",
 			"more": "none",
-			"id": 56779294,
-			"pass": "040400",
-			"percentToQualify": 100,
-			"verificationVid": "https://www.youtube.com/watch?v=jaOoZOO1qDg",
+			"id": 28880422,
+			"pass": "75310",
+			"percentToQualify": 59,
+			"verificationVid": "https://www.youtube.com/watch?v=3iZSDu6UQsA",
 			"key": 33
 		},
 		/*=================================================================================*/
 				{
 			"vids": [
 				{
-					"user": "MagnusVN",
-					"link": "https://www.youtube.com/watch?v=6jKFy3mXwHE",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "axyb",
-					"link": "https://www.youtube.com/watch?v=4oiZIYWbtlI",
-					"percent": 100,
-					"hz": "Mobile"
+					"user": "Korvak",
+					"link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+					"percent": 64,
+					"hz": "PC - High Refresh Rate"
 				},
 			],
-			"name": "Aftermath",
-			"author": "CaustiX",
+			"name": "Artificial Ideology",
+			"author": "TeamN2 [MagnusVN]",
 			"more": "none",
-			"id": 25610878,
+			"id": 27908448,
 			"pass": "Free to copy",
-			"percentToQualify": 100,
-			"verificationVid": "https://www.youtube.com/watch?v=pAr1uqBcKxI",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=xCKoc4BcWO0",
 			"key": 34
 		},
 		/*=================================================================================*/

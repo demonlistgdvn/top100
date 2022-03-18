@@ -16,6 +16,12 @@ const d = {
 		/*=================================================================================*/
 		{
                        "vids": [
+			       {
+					"user": "lBoke",
+					"link": "https://www.youtube.com/watch?v=pwep-VBEQp0",
+					"percent": 100,
+					"hz": "PC - High Refresh Rate"
+				},
 				{
 					"user": "noeruchan",
 					"link": "https://www.youtube.com/watch?v=PqTSQNjxEgM",
@@ -28,12 +34,7 @@ const d = {
 					"percent": 73,
 					"hz": "PC - High Refresh Rate"
 				},
-			       {
-					"user": "lBoke",
-					"link": "https://www.youtube.com/watch?v=0UnN-YpDN5U",
-					"percent": 66,
-					"hz": "PC - High Refresh Rate"
-				},
+			       
 			],
                        "name": "Sonic Wave",
                        "author": "Cyclic and Sunix [Pillowplayz]",

@@ -765,82 +765,60 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "CaustiX",
-					"link": "https://www.youtube.com/watch?v=p29eLNYc0g4",
-					"percent": 100,
-					"hz": "144hz"
+					"user": "Korvak",
+					"link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+					"percent": 56,
+					"hz": "PC - High Refresh Rate"
 				},
-				{
-					"user": "SammyOwO",
-					"link": "https://www.youtube.com/watch?v=1Z_nXq7VJfI",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "Hito73",
-					"link": "https://www.youtube.com/watch?v=XyXXm04Ii5E",
-					"percent": 100,
-					"hz": "60hz"
-				},
+				
 			],
-			"name": "Niflheim",
-			"author": "MagnusVN",
+			"name": "A Bizzare Phantasm",
+			"author": "TeamN2 [MagnusVN]",
 			"more": "none",
-			"id": 30194711,
-			"pass": "008383",
-			"percentToQualify": 100,
-			"verificationVid": "https://www.youtube.com/watch?v=8jiaPUqRaUA",
+			"id": 16023141,
+			"pass": "NaN",
+			"percentToQualify": 55,
+			"verificationVid": "https://www.youtube.com/watch?v=BwoDBy3gvRw&t=8s",
 			"key": 35
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "Yami",
-					"link": "https://www.youtube.com/watch?v=iwlxuzZkiPw",
-					"percent": 100,
-					"hz": "60hz"
-				},
+				
 			],
-			"name": "Marathon",
-			"author": "mephiles175",
+			"name": "The Hell Factory",
+			"author": "TeamN2 [SoulSilver Jr.]",
 			"more": "none",
 			"id": 57595201,
 			"pass": "Not Copyable",
-			"percentToQualify": 100,
-			"verificationVid": "https://www.youtube.com/watch?v=UOzfS2WkI6s",
+			"percentToQualify": 63,
+			"verificationVid": "https://www.youtube.com/watch?v=F6UkLlRh28o",
 			"key": 36
 		},
 		/*=================================================================================*/
 				{
 			"vids": [
-				{
-					"user": "reeseye",
-					"link": "https://www.youtube.com/watch?v=gmz1ZytQxmw",
-					"percent": 100,
-					"hz": "144hz"
-				},
 			],
-			"name": "Audio Extraction",
-			"author": "MagnusVN",
+			"name": "Karma",
+			"author": "ArTu [Encions]",
 			"more": "none",
-			"id": 22434793,
-			"pass": "409735",
-			"percentToQualify": 100,
-			"verificationVid": "https://www.youtube.com/watch?v=UeDkCaHSO6k",
+			"id": NaN,
+			"pass": "NaN",
+			"percentToQualify": 59,
+			"verificationVid": "https://www.youtube.com/watch?app=desktop&v=RKKLKiJSkY8",
 			"key": 37
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
 			],
-			"name": "Twisted Tranquility",
-			"author": "Soulsilver Jr.",
-			"more": "none",
-			"id": 32920197,
-			"pass": "200356",
-			"percentToQualify": 100,
-			"verificationVid": "https://www.youtube.com/watch?v=rhK7I_6b5Ek",
+			"name": "Mirage",
+			"author": "Golden and more [MagnusVN]",
+			"more": "Zanna83, HelpegasuS, Tear Rai, Sminx, V9lt, Temp, UltraCharge, Patchimator, Golden, Yoshikawa",
+			"id": 63045458,
+			"pass": "Free Copy",
+			"percentToQualify": 61,
+			"verificationVid": "https://www.youtube.com/watch?app=desktop&v=UVV-Yj4O-XE",
 			"key": 38
 		},
 		/*=================================================================================*/
@@ -853,13 +831,13 @@ const d = {
 				        "hz": "144hz"
 				},
 			],
-			"name": "Breakout",
-			"author": "CaustiX",
+			"name": "Extinction",
+			"author": "Cum [mephiles175]",
 			"more": "none",
-			"id": 25241513,
-			"pass": "120619",
-			"percentToQualify": 100,
-			"verificationVid": "https://www.youtube.com/watch?v=fCZN98UoKik",
+			"id": 50060092,
+			"pass": "180217",
+			"percentToQualify": 60,
+			"verificationVid": "https://www.youtube.com/watch?v=1DlsT4rcvFU",
 			"key": 39
 		},
 		/*=================================================================================*/

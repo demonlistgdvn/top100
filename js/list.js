@@ -843,179 +843,217 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-                                       "user": "Soulsilver Jr.",
-                                       "link": "https://www.youtube.com/watch?v=_fXU0PhC75o",
-                                       "percent": 100,
-                                       "hz": "Mobile"
-                                },
-				{
-                                       "user": "Aquatic",
-                                       "link": "https://www.youtube.com/watch?v=8XdAIBGv3-k",
-                                       "percent": 100,
-                                       "hz": "144hz"
-                                },
-				{
-                                       "user": "axyb",
-                                       "link": "https://www.youtube.com/watch?v=nrkQR4aUqPI",
-                                       "percent": 100,
-                                       "hz": "Bypass"
-                                },
 			],
-			"name": "Deception Dive",
-			"author": "CaustiX",
+			"name": "WaveBreaker",
+			"author": "Lemons [Anirium]",
 			"more": "none",
-			"id": 34379100,
-			"pass": "635897",
-			"percentToQualify": 100,
-			"verificationVid": "https://www.youtube.com/watch?v=ZB-OUceNcAs",
+			"id": 56779294,
+			"pass": "40400",
+			"percentToQualify": 60,
+			"verificationVid": "https://www.youtube.com/watch?v=jaOoZOO1qDg",
 			"key": 40
 		},
 		/*=================================================================================*/
 				{
 			"vids": [
+				{
+                                        "user": "MagnusVN",
+                                        "link": "https://www.youtube.com/watch?v=6jKFy3mXwHE",
+                                        "percent": 100,
+                                        "hz": "PC - High Refresh Rate"
+                                },
+				{
+                                        "user": "Kanota",
+                                        "link": "https://www.youtube.com/watch?v=FrgjDZjDLCI",
+                                        "percent": 100,
+                                        "hz": "PC - High Refresh Rate"
+                                },
+				{
+                                        "user": "lBoke",
+                                        "link": "https://www.youtube.com/watch?v=XCHdGMF5mCA",
+                                        "percent": 100,
+                                        "hz": "PC - High Refresh Rate"
+                                },
 			],
-			"name": "The Flawless",
-			"author": "CaustiX",
-			"more": "none",
-			"id": 21280210,
-			"pass": "Free copy",
-			"percentToQualify": 100,
-			"verificationVid": "https://www.youtube.com/watch?v=UCUCMwOwdgw",
+			"name": "Aftermath",
+			"author": "Satcho and more [CaustiX]",
+			"more": "Exenity, Squizz, Hinds, Vultra, Rhythmic, Waze, Bassiegames, Findexi, knobbelboy",
+			"id": 25610878,
+			"pass": "123985",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=pAr1uqBcKxI",
 			"key": 41
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+                                        "user": "SoulSilver Jr.",
+                                        "link": "https://www.youtube.com/watch?v=Tq4AgGB1O5o",
+                                        "percent": 100,
+                                        "hz": "Mobile - Low Refresh Rate"
+                                },
+				{
+                                        "user": "LongHunter",
+                                        "link": "https://www.youtube.com/watch?v=uQSF-M3hUZU",
+                                        "percent": 100,
+                                        "hz": "PC - High Refresh Rate"
+                                },
 			],
-			"name": "Fexty",
-			"author": "MagnusVN",
+			"name": "Plasma Pulse III",
+			"author": "Giron and xSmokes [CaustiX]",
 			"more": "none",
-			"id": 25449475,
-			"pass": "12396",
-			"percentToQualify": 100,
-			"verificationVid": "https://www.youtube.com/watch?v=QpCZ1WwGxdg",
+			"id": 20159880,
+			"pass": "250516",
+			"percentToQualify": 69,
+			"verificationVid": "https://www.youtube.com/watch?v=GGBJn-ajdBs",
 			"key": 42
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
 			],
-			"name": "NecropoliX",
-			"author": "mephiles175",
+			"name": "Novalis",
+			"author": "Gryllex [DVEnsilver]",
 			"more": "none",
-			"id": 36449129,
-			"pass": "437643",
-			"percentToQualify": 52,
-			"verificationVid": "https://www.youtube.com/watch?v=dbW-vxElepQ",
+			"id": 33748382,
+			"pass": "Free Copy",
+			"percentToQualify": 55,
+			"verificationVid": "https://www.youtube.com/watch?v=3EJC6DajoJ8&t=8s",
 			"key": 43
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
 				{
-                                        "user": "MagnusVN",
-                                        "link": "https://www.youtube.com/watch?v=LN4InLYaXKI",
+                                        "user": "CaustiX",
+                                        "link": "https://www.youtube.com/watch?v=p29eLNYc0g4",
                                         "percent": 100,
-                                        "hz": "60hz"
+                                        "hz": "PC - High Refresh Rate"
                                 },
 				{
-					"user": "WMirror",
-					"link": "https://youtu.be/JlMh3rttZc0",
+					"user": "dangkhoi",
+					"link": "https://www.youtube.com/watch?v=1Z_nXq7VJfI",
 					"percent": 100,
-					"hz": "Mobile"
+					"hz": "Mobile - Low Refresh Rate"
 				},
 				{
-					"user": "axyb",
-					"link": "https://www.youtube.com/watch?v=EyOmmPe0Dmg",
+					"user": "Hito73",
+					"link": "https://www.youtube.com/watch?v=XyXXm04Ii5E",
 					"percent": 100,
-					"hz": "60hz"
+					"hz": "PC - High Refresh Rate"
 				},
+				{
+					"user": "mephiles175",
+					"link": "https://www.youtube.com/watch?v=nzY1RBJqjRI",
+					"percent": 100,
+					"hz": "Mobile - Low Refresh Rate"
+				},
+				
 			],
-			"name": "Retention",
-			"author": "mephiles175",
+			"name": "Niflheim",
+			"author": "Vismuth [MagnusVN]",
 			"more": "none",
-			"id": 18697406,
-			"pass": "Free to copy",
-			"percentToQualify": 100,
-			"verificationVid": "https://www.youtube.com/watch?v=ZTHsSeJwft0",
+			"id": 30194711,
+			"pass": "8383",
+			"percentToQualify": 55,
+			"verificationVid": "https://www.youtube.com/watch?v=8jiaPUqRaUA",
 			"key": 44
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "mephiles175",
+					"link": "https://www.youtube.com/watch?v=nzY1RBJqjRI",
+					"percent": 100,
+					"hz": "Mobile - Low Refresh Rate"
+				},
+				{
+					"user": "BoiloveGD",
+					"link": "https://www.youtube.com/watch?v=iwlxuzZkiPw",
+					"percent": 100,
+					"hz": "PC - Low Refresh Rate"
+				},
+				{
+					"user": "AlphaCorona",
+					"link": "https://www.youtube.com/watch?v=xCQuDfkmPIs",
+					"percent": 100,
+					"hz": "PC - Low Refresh Rate"
+				},
 			],
-			"name": "Artificial Dream",
-			"author": "augii",
+			"name": "Marathon",
+			"author": "weoweoteo [mephiles175]",
 			"more": "none",
-			"id": 38550757,
-			"pass": "001122",
-			"percentToQualify": 100,
-			"verificationVid": "https://www.youtube.com/watch?v=YCD0U-40k94",
+			"id": 57595201,
+			"pass": "NaN",
+			"percentToQualify": 55,
+			"verificationVid": "https://www.youtube.com/watch?v=UOzfS2WkI6s",
 			"key": 45
 		},
 		/*=================================================================================*/
 				{
 			"vids": [
+				{
+					"user": "Kanota",
+					"link": "https://www.youtube.com/watch?v=gmz1ZytQxmw",
+					"percent": 100,
+					"hz": "PC - High Refresh Rate"
+				},
 			],
-			"name": "Glide",
-			"author": "MagnusVN",
-			"more": "none",
-			"id": 55184818,
-			"pass": "712945",
-			"percentToQualify": 100,
-			"verificationVid": "https://www.youtube.com/watch?v=pkvgnvuIACg",
+			"name": "Audio Extraction",
+			"author": "GoodSmile and more [MagnusVN]",
+			"more": "GoodSmile, T17, Star77, Cryomancer, Logik, P14, CubeCreator, Bio21, AbstractDark, Agent",
+			"id": 22434793,
+			"pass": "409735",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=UeDkCaHSO6k",
 			"key": 46
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "Sedolust",
+					"link": "https://www.youtube.com/watch?v=KIFzcJ5Uoug",
+					"percent": 88,
+					"hz": "Mobile - Low Refresh Rate"
+				},
 			],
-			"name": "Plus Ultra",
-			"author": "SkrisGD",
-			"more": "none",
-			"id": NaN,
-			"pass": "Not Copyable",
-			"percentToQualify": 100,
-			"verificationVid": "https://www.youtube.com/watch?v=iZ-8PZMKMI",
+			"name": "Twisted Tranquility",
+			"author": "Flukester and more [SoulSilver Jr.]",
+			"more": "Flukester, Kenny, Jude, Gach, CreatorDino, Venom, Killua, Jghost217, ZinkZeta",
+			"id": 32920197,
+			"pass": "200356",
+			"percentToQualify": 54,
+			"verificationVid": "https://www.youtube.com/watch?v=rhK7I_6b5Ek",
 			"key": 47
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "Spidebot",
-					"link": "https://www.youtube.com/watch?v=_TZZvSsVUz0",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "env1",
-					"link": "https://www.youtube.com/watch?v=GKobItbC-3s",
-					"percent": 100,
-					"hz": "Bypass"
-				},
+	
 			],
-			"name": "Incipient",
-			"author": "MagnusVN",
+			"name": "Daydream",
+			"author": "Yendis [mephiles175]",
 			"more": "none",
-			"id": 32688321,
-			"pass": "420420",
-			"percentToQualify": 100,
-			"verificationVid": "https://www.youtube.com/watch?v=kM26g6TsTd0",
+			"id": NaN,
+			"pass": "NaN",
+			"percentToQualify": 55,
+			"verificationVid": "https://www.youtube.com/watch?v=hQSRhNcigDU&t=2s",
 			"key": 48
 		},
 		/*=================================================================================*/
 				{
 		        "vids": [
 			],
-			"name": "Volume",
-			"author": "MagnusVN",
+			"name": "SHATTER",
+			"author": "Efext [mephiles175]",
 			"more": "none",
-			"id": 48020496,
+			"id": 25603065,
 			"pass": "Free to copy",
-			"percentToQualify": 100,
-			"verificationVid": "https://www.youtube.com/watch?v=cA86M4I98YM",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=9MsESW1lu9Q",
 			"key": 49
 		},
 		/*=================================================================================*/

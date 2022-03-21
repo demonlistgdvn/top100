@@ -1952,7 +1952,353 @@ const d = {
 			"key": 89
 		},
 		/*=================================================================================*/
-
+		{
+			"vids": [
+			{
+					"user": "lBoke",
+					"link": "https://www.youtube.com/watch?v=cX-LGo_qdlw",
+					"percent": 100,
+					"hz": "PC - High Refresh Rate"
+				},
+			],
+			"name": "Phantamasgoria",
+			"author": "whlt [microwavegmd]",
+			"more": "none",
+			"id": NaN,
+			"pass": "NaN",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=r_F7IU4gUls",
+			"key": 90
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			
+			],
+			"name": "Gunslinga Corridor",
+			"author": "Death Control [KizawaGD]",
+			"more": "none",
+			"id": NaN,
+			"pass": "NaN",
+			"percentToQualify": 100,
+			"verificationVid": "https://youtube.com/watch?v=5rgcYBqinoc",
+			"key": 91
+		},
+		/*=================================================================================*/
+{
+			"vids": [
+				{
+					"user": "MagnusVN",
+					"link": "https://www.youtube.com/watch?v=jXYYdxbmtNA",
+					"percent": 100,
+					"hz": "PC - High Refresh Rate"
+				},
+				{
+					"user": "CaustiX",
+					"link": "https://www.youtube.com/watch?v=IvOw53WCRiU",
+					"percent": 100,
+					"hz": "PC - High Refresh Rate"
+				},
+				{
+					"user": "Kanota",
+					"link": "https://www.youtube.com/watch?v=cZDbQd7DYDk",
+					"percent": 100,
+					"hz": "PC - High Refresh Rate"
+				},
+				{
+					"user": "ItzStardust",
+					"link": "https://www.youtube.com/watch?v=4hYSfSAaxm0",
+					"percent": 100,
+					"hz": "PC - High Refresh Rate"
+				},
+				{
+					"user": "lBoke",
+					"link": "https://www.youtube.com/watch?v=P3QGUyJealY",
+					"percent": 100,
+					"hz": "PC - High Refresh Rate"
+				},
+				{
+					"user": "Anirium",
+					"link": "https://www.youtube.com/watch?v=-EkVH_0yB1U",
+					"percent": 100,
+					"hz": "PC - High Refresh Rate"
+				},
+				{
+					"user": "ShinichiVN",
+					"link": "https://www.youtube.com/watch?v=ZadscIi4lNA",
+					"percent": 100,
+					"hz": "PC - High Refresh Rate"
+				},
+				{
+					"user": "Guest3s",
+					"link": "https://www.youtube.com/watch?v=SVOHYOSOdPo",
+					"percent": 100,
+					"hz": "PC - Low Refresh Rate"
+				},
+				{
+					"user": "microwavegmd",
+					"link": "https://www.youtube.com/watch?v=PQOWF2ulXwEA",
+					"percent": 100,
+					"hz": "PC - High Refresh Rate"
+				},
+				{
+					"user": "HGL",
+					"link": "https://www.youtube.com/watch?v=4AGzEbNJOiA",
+					"percent": 100,
+					"hz": "PC - High Refresh Rate"
+				},
+			],
+			"name": "Cataclysm",
+			"author": "Gboy [Shihotori]",
+			"more": "none",
+			"id": 3979721,
+			"pass": "666777",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=2XrDHdDnYFI",
+			"key": 92
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "Korvak",
+					"link": "https://www.youtube.com/watch?v=ZMUPIyXNyQQ",
+					"percent": 100,
+					"hz": "PC - High Refresh Rate"
+				},
+			],
+			"name": "Night Life",
+			"author": "para [mephiles175]",
+			"more": "none",
+			"id": NaN,
+			"pass": "NaN",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=wGODms2gkus",
+			"key": 93
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				
+			],
+			"name": "Falling Up",
+			"author": "KrmaL [noeruchan]",
+			"more": "none",
+			"id": 24301797,
+			"pass": "0004",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=SGoqhao7dG8",
+			"key": 94
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				
+			],
+			"name": "The Ultimate Phase",
+			"author": "Andromeda and more [CaustiX]",
+			"more": "ZenthicAlpha, Andromeda, UserMatt18, CreepyDash, GuitarHeroStyles, ViPriN, Tygrysek, WOOGI1411, Zobros, Findexi, Crack, Loogiah, MaJackO, Cyclic, Giron",
+			"id": 7174110,
+			"pass": "No Copy",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=CowlnPUIgQ8",
+			"key": 95
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				
+			],
+			"name": "Cosmorush 21",
+			"author": "Pennutoh [mephiles175]",
+			"more": "none",
+			"id": 21604884,
+			"pass": "170217",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=_b7vAd920_g",
+			"key": 96
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "NgHoagAnh",
+					"link": "https://www.youtube.com/watch?v=ycWM44a_S2M",
+					"percent": 100,
+					"hz": "PC - High Refresh Rate"
+				},
+			],
+			"name": "Penombre",
+			"author": "ZephiroX [Korvak]",
+			"more": "none",
+			"id": 48454650,
+			"pass": "Free Copy",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=ycWM44a_S2M",
+			"key": 97
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "MinhLeGD",
+					"link": "https://www.youtube.com/watch?v=VGYEk8D5D3A",
+					"percent": 100,
+					"hz": "PC - Low Refresh Rate"
+				},
+				{
+					"user": "TheRealWind",
+					"link": "https://www.youtube.com/watch?v=C-S4RQ5sQ1c",
+					"percent": 100,
+					"hz": "Mobile - Low Refresh Rate"
+				},
+				{
+					"user": "HyperVN",
+					"link": "https://www.youtube.com/watch?v=EEq_BQznOmo",
+					"percent": 100,
+					"hz": "Mobile - Low Refresh Rate"
+				},
+				{
+					"user": "AlphaCorona",
+					"link": "https://www.youtube.com/watch?v=_M_K-ikuCLI",
+					"percent": 100,
+					"hz": "PC - Low Refresh Rate"
+				},
+			],
+			"name": "troll level",
+			"author": "Tomoko Kuroki from the famous anime WataMote [mephiles175]",
+			"more": "none",
+			"id": NaN,
+			"pass": "NaN",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=Ey9RsEeJLg0",
+			"key": 98
+		},
+		/*=================================================================================*/
+		
+		{
+			"vids": [
+				{
+					"user": "TrphqcdaT",
+					"link": "https://www.youtube.com/watch?v=SEJKu3pjeEM",
+					"percent": 100,
+					"hz": "PC - Low Refresh Rate"
+				},
+				{
+					"user": "DVEnsilver",
+					"link": "https://www.youtube.com/watch?v=WBK5z6OfmFA",
+					"percent": 100,
+					"hz": "PC - Low Refresh Rate"
+				},
+				{
+					"user": "Cretzen",
+					"link": "https://www.youtube.com/watch?v=Cvmn5moQDEw",
+					"percent": 100,
+					"hz": "PC - High Refresh Rate"
+				},
+				{
+					"user": "SoulSilver Jr.",
+					"link": "https://www.youtube.com/watch?v=KbiE3LoPVg8",
+					"percent": 100,
+					"hz": "Mobile - Low Refresh Rate"
+				},
+				{
+					"user": "Spidebot",
+					"link": "https://www.youtube.com/watch?v=PJ2FzIoY95I",
+					"percent": 100,
+					"hz": "Mobile - Low Refresh Rate"
+				},
+				{
+					"user": "pigman2005",
+					"link": "https://www.youtube.com/watch?v=c1xewRvSN0U",
+					"percent": 100,
+					"hz": "PC - High Refresh Rate"
+				},
+				{
+					"user": "Tu2rusGD",
+					"link": "https://www.youtube.com/watch?v=rnMrPEaegn8",
+					"percent": 100,
+					"hz": "PC - High Refresh Rate"
+				},
+				{
+					"user": "mephiles175",
+					"link": "https://www.youtube.com/watch?v=WNbSk3DVyQo",
+					"percent": 100,
+					"hz": "Mobile - Low Refresh Rate"
+				},
+				{
+					"user": "ZaikaCheems",
+					"link": "https://www.youtube.com/watch?v=PFZXAk8aFmw",
+					"percent": 100,
+					"hz": "Mobile - Low Refresh Rate"
+				},
+				{
+					"user": "WMirror",
+					"link": "https://www.youtube.com/watch?v=3JeILbiDUYA",
+					"percent": 100,
+					"hz": "PC - High Refresh Rate"
+				},
+				{
+					"user": "Anirium",
+					"link": "https://www.youtube.com/watch?v=UXTp_zhkK9c",
+					"percent": 100,
+					"hz": "PC - High Refresh Rate"
+				},
+				{
+					"user": "microwavegmd",
+					"link": "https://www.youtube.com/watch?v=TlppW-hFVQ8",
+					"percent": 100,
+					"hz": "PC - High Refresh Rate"
+				},
+				{
+					"user": "LongHunter",
+					"link": "https://www.youtube.com/watch?v=f36Q1FeNdUM",
+					"percent": 100,
+					"hz": "PC - High Refresh Rate"
+				},
+				{
+					"user": "Star Original VN",
+					"link": "https://www.youtube.com/watch?v=eOWz4Rd_hlQ",
+					"percent": 100,
+					"hz": "Mobile - Low Refresh Rate"
+				},
+				{
+					"user": "Notori",
+					"link": "https://www.youtube.com/watch?v=aYzzSp8gCng",
+					"percent": 100,
+					"hz": "PC - High Refresh Rate"
+				},
+				{
+					"user": "ShinichiVN",
+					"link": "https://www.youtube.com/watch?v=aYgy9I8XaUk",
+					"percent": 100,
+					"hz": "PC - High Refresh Rate"
+				},
+			],
+			"name": "HyperSonic",
+			"author": "GeoStorm [MagnusVN]",
+			"more": "none",
+			"id": 30219145,
+			"pass": "No Copy",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=hPwRVndqZh8",
+			"key": 99
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				
+			],
+			"name": "EAST",
+			"author": "Earl Sweatshirt",
+			"more": "nah",
+			"id": 2,
+			"pass": "double back when you got it made",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=uxdY_6JTIO4",
+			"key": 95
+		},
+		/*=================================================================================*/
 
 	],
 	"version": [

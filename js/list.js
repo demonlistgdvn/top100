@@ -1660,6 +1660,94 @@ const d = {
 			"key": 75
 		},
 		/*=================================================================================*/
+{
+			"vids": [
+				{
+					"user": "Kanota",
+					"link": "https://www.youtube.com/watch?v=nHPEvlR4SwE",
+					"percent": 100,
+					"hz": "PC - High Refresh Rate"
+				},
+				{
+					"user": "env1",
+					"link": "https://www.youtube.com/watch?v=q5nUj25beTQ",
+					"percent": 100,
+					"hz": "PC - High Refresh Rate"
+				},
+				{
+					"user": "ItzTritiumVN",
+					"link": "https://www.youtube.com/watch?v=7ALeBoVZDlg",
+					"percent": 100,
+					"hz": "Mobile - Low Refresh Rate"
+				},
+				{
+					"user": "lBoke",
+					"link": "https://www.youtube.com/watch?v=MnFGrDjiDrg",
+					"percent": 100,
+					"hz": "PC - High Refresh Rate"
+				},
+			],
+			"name": "Allegiance",
+			"author": "nikroplays [MagnusVN]",
+			"more": "none",
+			"id": 20761188,
+			"pass": "Free Copy",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=Kf28QnYEoCo",
+			"key": 76
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Napalm",
+			"author": "Marwec [MagnusVN]",
+			"more": "AcropolisBoy, ItzShuvon, deleitor11, SoyNadie, AlexTheGS33, ThePhoenixGHG, Serpyy",
+			"id": NaN,
+			"pass": "NaN",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=Bp9hnWBiXsc",
+			"key": 77
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Air Tech",
+			"author": "Elevens [microwavegmd]",
+			"more": "AcropolisBoy, ItzShuvon, deleitor11, SoyNadie, AlexTheGS33, ThePhoenixGHG, Serpyy",
+			"id": NaN,
+			"pass": "NaN",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=uhunpix4Kb4",
+			"key": 78
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "Hito73",
+					"link": "https://www.youtube.com/watch?v=0JdpdXqgb5M",
+					"percent": 100,
+					"hz": "Mobile - Low Refresh Rate"
+				},
+				{
+					"user": "Spidebot",
+					"link": "https://www.youtube.com/watch?v=XzvBcAKU-A0",
+					"percent": 100,
+					"hz": "Mobile - High Refresh Rate"
+				},
+			],
+			"name": "Duelo Maestro",
+			"author": "Nacho21 [CaustiX]",
+			"more": "none",
+			"id": 23298409,
+			"pass": "Free Copy",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=I3Om1I2GynY",
+			"key": 79
+		},
+		/*=================================================================================*/
 
 	],
 	"version": [

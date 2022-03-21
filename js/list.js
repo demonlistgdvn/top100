@@ -430,7 +430,7 @@ const d = {
 				},
 			],
 			"name": "Springtime",
-			"author": "VigorousGarden [CaustiX]",
+			"author": "VigorousGard3n [CaustiX]",
 			"more": "none",
 			"id": NaN,
 			"pass": "NaN",
@@ -1735,7 +1735,7 @@ const d = {
 					"user": "Spidebot",
 					"link": "https://www.youtube.com/watch?v=XzvBcAKU-A0",
 					"percent": 100,
-					"hz": "Mobile - High Refresh Rate"
+					"hz": "Mobile - Low Refresh Rate"
 				},
 			],
 			"name": "Duelo Maestro",
@@ -1748,6 +1748,211 @@ const d = {
 			"key": 79
 		},
 		/*=================================================================================*/
+		{
+			"vids": [
+			
+			],
+			"name": "GLISTEN",
+			"author": "NyxT [mephiles175]",
+			"more": "none",
+			"id": NaN,
+			"pass": "NaN",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=FOBRd-yoee0",
+			"key": 80
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			
+			],
+			"name": "Azurite",
+			"author": "Sillow [lBoke]",
+			"more": "none",
+			"id": NaN,
+			"pass": "NaN",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=4XocF6rzdWI",
+			"key": 81
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "microwavegmd",
+					"link": "https://www.youtube.com/watch?v=nd3qGKwY-GE",
+					"percent": 100,
+					"hz": "PC - High Refresh Rate"
+				},
+			
+			],
+			"name": "Forbidden Isle",
+			"author": "Sillow [lBoke]",
+			"more": "none",
+			"id": NaN,
+			"pass": "NaN",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=JUtkfgaVLm4",
+			"key": 82
+		},
+		/*=================================================================================*/
+{
+			"vids": [
+				{
+					"user": "DVEnsilver",
+					"link": "https://www.youtube.com/watch?v=w_mPmcg1HAI",
+					"percent": 100,
+					"hz": "PC - High Refresh Rate"
+				},
+				{
+					"user": "mephiles175",
+					"link": "https://www.youtube.com/watch?v=_RWVgz6lABk",
+					"percent": 100,
+					"hz": "Mobile - Low Refresh Rate"
+				},
+				{
+					"user": "Spidebot",
+					"link": "https://www.youtube.com/watch?v=_TZZvSsVUz0",
+					"percent": 100,
+					"hz": "Mobile - Low Refresh Rate"
+				},
+				{
+					"user": "env1",
+					"link": "https://www.youtube.com/watch?v=GKobItbC-3s",
+					"percent": 100,
+					"hz": "PC - High Refresh Rate"
+				},
+				{
+					"user": "ZaikaCheems",
+					"link": "https://www.youtube.com/watch?v=46e6MjyBycE",
+					"percent": 100,
+					"hz": "Mobile - Low Refresh Rate"
+				},
+				{
+					"user": "Itsdz",
+					"link": "https://www.youtube.com/watch?v=jrNqGycYpIw",
+					"percent": 100,
+					"hz": "PC - Low Refresh Rate"
+				},
+				{
+					"user": "LugisYara",
+					"link": "https://www.youtube.com/watch?v=zqbFhJX0JZg",
+					"percent": 100,
+					"hz": "Mobile - Low Refresh Rate"
+				},
+				{
+					"user": "Guest3s",
+					"link": "https://www.youtube.com/watch?v=CLUc9U391B0",
+					"percent": 100,
+					"hz": "PC - Low Refresh Rate"
+				},
+			],
+			"name": "Incipient",
+			"author": "Jenkins [MagnusVN]",
+			"more": "none",
+			"id": 32688321,
+			"pass": "420420",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=kM26g6TsTd0",
+			"key": 83
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			
+			],
+			"name": "Misty Mountains",
+			"author": "We4therMan [lBoke]",
+			"more": "none",
+			"id": NaN,
+			"pass": "NaN",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=qfib31dRShg",
+			"key": 84
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "Zophirux",
+					"link": "https://www.youtube.com/watch?v=J-7zCv9IRZw",
+					"percent": 100,
+					"hz": "PC - Low Refresh Rate"
+				},
+			
+			],
+			"name": "Wintertime",
+			"author": "VigorousGard3n [CaustiX]",
+			"more": "none",
+			"id": NaN,
+			"pass": "NaN",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=wzLCHYNux2Q",
+			"key": 85
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			
+			],
+			"name": "Final Epilogue",
+			"author": "Pennutoh [MagnusVN]",
+			"more": "none",
+			"id": 28231603,
+			"pass": "135790",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=vTchz4T9I-c",
+			"key": 86
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			
+			],
+			"name": "SIGSEGV",
+			"author": "nazi pedophile [mephiles175]",
+			"more": "none",
+			"id": NaN,
+			"pass": "NaN",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=jrVVISZcZCw",
+			"key": 87
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			
+			],
+			"name": "Dark Odyssey",
+			"author": "JonathanGD [NTQA]",
+			"more": "none",
+			"id": NaN,
+			"pass": "NaN",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=lWPl4iUq4X0",
+			"key": 88
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			{
+					"user": "lBoke",
+					"link": "https://www.youtube.com/watch?v=T4rdGiLDSls",
+					"percent": 100,
+					"hz": "PC - High Refresh Rate"
+				},
+			],
+			"name": "Percipitance",
+			"author": "Extravagon [Anirium]",
+			"more": "none",
+			"id": NaN,
+			"pass": "NaN",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=Wdoeea_Tp3E",
+			"key": 89
+		},
+		/*=================================================================================*/
+
 
 	],
 	"version": [

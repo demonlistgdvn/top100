@@ -86,25 +86,13 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile - Low Refresh Rate"
 				},
-			{
-					"user": "MagnusVN",
-					"link": "https://www.youtube.com/watch?v=LwveqfqGOAg",
-					"percent": 53,
-					"hz": "PC - High Refresh Rate"
-				},
-			{
-					"user": "dangkhoi",
-					"link": "https://kekma.ga",
-					"percent": 44,
-					"hz": "Mobile - Low Refresh Rate"
-				},
                        ],
                        "name": "Celestial Force",
                        "author": "MindCap and more [mephiles175]",
                        "more": "GaidenHertuny, HelpegasuS, GeometryTom, MrLorenzo, JustBasic, Auntex, Xyriak, MindCap, Soulax, Djoxy, Elayad, Manheadrambo, Stormy97, Hoshikido, Wless, Jihn, Zafkiel",
                        "id": 47237400,
                        "pass": "772002",
-                       "percentToQualify": 42,
+                       "percentToQualify": 59,
                        "verificationVid": "https://www.youtube.com/watch?v=mSVZYm-o6ts",
                        "key": 4
                 },
@@ -126,8 +114,8 @@ const d = {
                 "vids": [
 			{
 					"user": "NTQA",
-					"link": "https://www.youtube.com/watch?v=wnOEHJqAHF4",
-					"percent": 54,
+					"link": "https://www.youtube.com/watch?v=ikKRvbD_WPI",
+					"percent": 100,
 					"hz": "PC - High Refresh Rate"
 				},
                          ],
@@ -145,8 +133,8 @@ const d = {
                 "vids": [
 			{
 					"user": "noeruchan",
-					"link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-					"percent": 81,
+					"link": "https://www.youtube.com/watch?v=TmmXCb18sfE",
+					"percent": 70,
 					"hz": "PC - High Refresh Rate"
 				},
 		         ],
@@ -250,18 +238,6 @@ const d = {
 					"percent": 81,
 					"hz": "PC - High Refresh Rate"
 				},
-				{
-					"user": "microwavegmd",
-					"link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-					"percent": 55,
-					"hz": "PC - High Refresh Rate"
-				},
-				{
-					"user": "WMirror",
-					"link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-					"percent": 49,
-					"hz": "PC - High Refresh Rate"
-				},
 
 		],
                        "name": "Auditory Breaker",
@@ -269,7 +245,7 @@ const d = {
                        "more": "none",
                        "id": 51791710,
                        "pass": "Free To Copy",
-                       "percentToQualify": 49,
+                       "percentToQualify": 56,
                        "verificationVid": "https://www.youtube.com/watch?v=N2A4ReGtjyE",
                        "key": 12
                 },
@@ -287,12 +263,6 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=9j0TN-J29WA",
 					"percent": 63,
 					"hz": "PC - Low Refresh Rate"
-				},
-				{
-					"user": "dangkhoi",
-					"link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-					"percent": 70,
-					"hz": "Mobile - Low Refresh Rate"
 				},
 				{
 					"user": "FerrisGD",
@@ -326,63 +296,45 @@ const d = {
 			"id": 48679353,
 			"pass": "276943",
 			"percentToQualify": 56,
-			"verificationVid": "https://www.youtube.com/watch?v=8gyJH6_tQrM",
+			"verificationVid": "https://www.youtube.com/watch?v=YZdogtOn7Xw",
 			"key": 14
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "Korvak",
-					"link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-					"percent": 45,
-					"hz": "PC - High Refresh Rate"
-				},
 			],
 			"name": "Shock Therapy",
 			"author": "Arb and more [MagnusVN]",
 			"more": "Arb, Jenkins GD, Grax, RadiationV2",
 			"id": 57121503,
 			"pass": "Free to copy",
-			"percentToQualify": 44,
+			"percentToQualify": 48,
 			"verificationVid": "https://www.youtube.com/watch?v=Mdxo3a1STxQ",
 			"key": 15
 		},
 		/*=================================================================================*/
 		{
 		        "vids": [
-				{
-					"user": "Korvak",
-					"link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-					"percent": 70,
-					"hz": "PC - High Refresh Rate"
-				},
 			],
 			"name": "ErebuS",
 			"author": "Ilrell and Platnuu [WMirror]",
 			"more": "none",
 			"id": 31462941,
 			"pass": "231846",
-			"percentToQualify": 62,
+			"percentToQualify": 63,
 			"verificationVid": "https://www.youtube.com/watch?v=FZYhV8Q5Gts",
 			"key": 16
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "GNZ1111",
-					"link": "https://www.youtube.com/watch?v=m2Esyl-6I0A",
-					"percent": 42,
-					"hz": "PC - Low Refresh Rate"
-				},
 			],
 			"name": "Athanatos",
 			"author": "Gaero, Herzilo and Exenity [CaustiX]",
 			"more": "none",
 			"id": 26133601,
 			"pass": "666669",
-			"percentToQualify": 42,
+			"percentToQualify": 63,
 			"verificationVid": "https://www.youtube.com/watch?v=xUkOqDtyD34",
 			"key": 17
 		},
@@ -429,25 +381,13 @@ const d = {
 					"percent": 100,
 					"hz": "PC - Low Refresh Rate"
 				},
-				{
-					"user": "NozusVN",
-					"link": "https://www.youtube.com/watch?v=rgJja1ZdQ58",
-					"percent": 46,
-					"hz": "Mobile - Low Refresh Rate"
-				},
-				{
-					"user": "FerrisGD",
-					"link": "https://www.youtube.com/watch?v=XiqZo6bdqgw",
-					"percent": 45,
-					"hz": "PC - Low Refresh Rate"
-				},
 			],
 			"name": "Springtime",
 			"author": "VigorousGard3n [CaustiX]",
 			"more": "none",
 			"id": NaN,
 			"pass": "NaN",
-			"percentToQualify": 45,
+			"percentToQualify": 56,
 			"verificationVid": "https://www.youtube.com/watch?v=UGAmTQHz9mQ",
 			"key": 20
 		},
@@ -563,25 +503,19 @@ const d = {
 				},
 				{
 					"user": "microwavegmd",
-					"link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+					"link": "https://www.youtube.com/watch?v=8YX0zTpyhts&t=20s",
 					"percent": 88,
 					"hz": "PC - High Refresh Rate"
 				},
 				{
 					"user": "Anirium",
-					"link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+					"link": "https://www.youtube.com/watch?v=JAVcBygwvxg",
 					"percent": 86,
 					"hz": "PC - High Refresh Rate"
 				},
 				{
-					"user": "Hito73",
-					"link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-					"percent": 74,
-					"hz": "PC - High Refresh Rate"
-				},
-				{
 					"user": "GNZ1111",
-					"link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+					"link": "https://www.youtube.com/watch?v=4EcnKWI9B_4",
 					"percent": 72,
 					"hz": "PC - Low Refresh Rate"
 				},
@@ -604,25 +538,13 @@ const d = {
 					"percent": 100,
 					"hz": "PC - High Refresh Rate"
 				},
-				{
-					"user": "SkrisGD",
-					"link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-					"percent": 45,
-					"hz": "PC - Low Refresh Rate"
-				},
-				{
-					"user": "LongHunter",
-					"link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-					"percent": 41,
-					"hz": "PC - High Refresh Rate"
-				},
 			],
 			"name": "Epsilon",
 			"author": "Team Proxima [MagnusVN]",
 			"more": "none",
 			"id": 48843446,
 			"pass": "NaN",
-			"percentToQualify": 41,
+			"percentToQualify": 55,
 			"verificationVid": "https://www.youtube.com/watch?v=i8l7ErWrjsM",
 			"key": 26
 		},
@@ -682,21 +604,15 @@ const d = {
 			"id": 8147005,
 			"pass": "71100",
 			"percentToQualify": 58,
-			"verificationVid": "https://www.youtube.com/watch?v=N5WCQ-RvNxE",
+			"verificationVid": "https://www.youtube.com/watch?v=Y_tutbvlLwg",
 			"key": 30
 		},
 		/*=================================================================================*/
 		{
 			"vids": [
 				{
-					"user": "Pillowplayz",
-					"link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-					"percent": 80,
-					"hz": "PC - High Refresh Rate"
-				},
-				{
 					"user": "Tu2rusGD",
-					"link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+					"link": "https://www.youtube.com/watch?v=IQSnamSxHCY",
 					"percent": 53,
 					"hz": "PC - High Refresh Rate"
 				},
@@ -758,12 +674,6 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "Korvak",
-					"link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-					"percent": 64,
-					"hz": "PC - High Refresh Rate"
-				},
 			],
 			"name": "Artificial Ideology",
 			"author": "TeamN2 [MagnusVN]",
@@ -777,15 +687,9 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "Korvak",
-					"link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-					"percent": 56,
-					"hz": "PC - High Refresh Rate"
-				},
 				
 			],
-			"name": "A Bizzare Phantasm",
+			"name": "A Bizarre Phantasm",
 			"author": "TeamN2 [MagnusVN]",
 			"more": "none",
 			"id": 16023141,
@@ -818,7 +722,7 @@ const d = {
 			"id": NaN,
 			"pass": "NaN",
 			"percentToQualify": 59,
-			"verificationVid": "https://www.youtube.com/watch?app=desktop&v=RKKLKiJSkY8",
+			"verificationVid": "https://www.youtube.com/watch?v=RKKLKiJSkY8",
 			"key": 38
 		},
 		/*=================================================================================*/
@@ -831,18 +735,12 @@ const d = {
 			"id": 63045458,
 			"pass": "Free Copy",
 			"percentToQualify": 61,
-			"verificationVid": "https://www.youtube.com/watch?app=desktop&v=UVV-Yj4O-XE",
+			"verificationVid": "https://www.youtube.com/watch?v=UVV-Yj4O-XE",
 			"key": 39
 		},
 		/*=================================================================================*/
 		 {
 			"vids": [
-				{
-					"user": "MagnusVN",
-					"link": "https://www.youtube.com/watch?v=ap04zAGx44g",
-					"percent": 100,
-				        "hz": "144hz"
-				},
 			],
 			"name": "Extinction",
 			"author": "Cum [mephiles175]",
@@ -976,12 +874,6 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "mephiles175",
-					"link": "https://www.youtube.com/watch?v=nzY1RBJqjRI",
-					"percent": 100,
-					"hz": "Mobile - Low Refresh Rate"
-				},
 				{
 					"user": "BoiloveGD",
 					"link": "https://www.youtube.com/watch?v=iwlxuzZkiPw",
@@ -1146,6 +1038,7 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile - Low Refresh Rate"
 				},
+				
 				{
 					"user": "Itsdz",
 					"link": "https://www.youtube.com/watch?v=Gq8tWbzET74",
@@ -1218,7 +1111,7 @@ const d = {
 					"user": "Guest3s",
 					"link": "https://www.youtube.com/watch?v=89wv4jumixA",
 					"percent": 100,
-					"hz": "PC - Low Refresh Rate"
+					"hz": "PC - High Refresh Rate"
 				},
 				{
 					"user": "LongHunter",
@@ -1290,7 +1183,7 @@ const d = {
 			"id": 60387034,
 			"pass": "Free Copy",
 			"percentToQualify": 100,
-			"verificationVid": "https://www.youtube.com/watch?app=desktop&v=AWD138wQMyI",
+			"verificationVid": "https://www.youtube.com/watch?v=AWD138wQMyI",
 			"key": 58
 		},
 		/*=================================================================================*/
@@ -1593,7 +1486,7 @@ const d = {
 			"id": NaN,
 			"pass": "NaN",
 			"percentToQualify": 100,
-			"verificationVid": "https://www.youtube.com/watch?app=desktop&v=0j1urveSXF4",
+			"verificationVid": "https://www.youtube.com/watch?v=0j1urveSXF4",
 			"key": 72
 		},
 		/*=================================================================================*/
@@ -1857,7 +1750,7 @@ const d = {
 					"user": "Guest3s",
 					"link": "https://www.youtube.com/watch?v=CLUc9U391B0",
 					"percent": 100,
-					"hz": "PC - Low Refresh Rate"
+					"hz": "PC - High Refresh Rate"
 				},
 			],
 			"name": "Incipient",
@@ -1889,6 +1782,12 @@ const d = {
 				{
 					"user": "Zophirux",
 					"link": "https://www.youtube.com/watch?v=J-7zCv9IRZw",
+					"percent": 100,
+					"hz": "PC - Low Refresh Rate"
+				},
+				{
+					"user": "Itsdz",
+					"link": "https://www.youtube.com/watch?v=OmZk2GnLNig",
 					"percent": 100,
 					"hz": "PC - Low Refresh Rate"
 				},
@@ -2046,7 +1945,7 @@ const d = {
 					"user": "Guest3s",
 					"link": "https://www.youtube.com/watch?v=SVOHYOSOdPo",
 					"percent": 100,
-					"hz": "PC - Low Refresh Rate"
+					"hz": "PC - High Refresh Rate"
 				},
 				{
 					"user": "microwavegmd",

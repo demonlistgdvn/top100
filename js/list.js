@@ -517,7 +517,7 @@ const d = {
 					"user": "GNZ1111",
 					"link": "https://www.youtube.com/watch?v=4EcnKWI9B_4",
 					"percent": 72,
-					"hz": "PC - Low Refresh Rate"
+					"hz": "PC - High Refresh Rate"
 				},
 			],
 			"name": "Bloodbath",
@@ -1191,7 +1191,7 @@ const d = {
 			"vids": [
 			],
 			"name": "Halberd",
-			"author": "https://www.nguoiduatin.vn/trum-parkour-tran-trong-hieu-bi-khoi-to-a547059.html [kientong345]",
+			"author": "NotIsa [kientong345]",
 			"more": "none",
 			"id": NaN,
 			"pass": "NaN",

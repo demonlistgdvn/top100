@@ -362,7 +362,7 @@ const d = {
 			"more": "Vismuth, Epsilonic, Sikatsuka, koolboom, Nell, Convie, Asuria, Kllnex, Fufafac, Isane, ZWK, Sequex, Kadex, Duffz, Shaun07, iEstia, Lime0037, TheGalaxyCat, ettery, El3ctr0, Belonzik, Skrypto, AstroFox, SyQual, ZelLink, Uriun, KrazyGFX, Kirzok, Orte, Elvii, Esencia, Toasted, Vantablack, Connected, wapon77, Pixizkiel, Gianv, Tent, Revel, Hyperlink, Ryzlesalt, R3ul, Rockwizard5,",
 			"id": 69507105,
 			"pass": "Free Copy",
-			"percentToQualify": 53,
+			"percentToQualify": 55,
 			"verificationVid": "https://www.youtube.com/watch?v=ksizFFs0gTQ",
 			"key": 19
 		},

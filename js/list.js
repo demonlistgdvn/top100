@@ -1078,6 +1078,12 @@ const d = {
 		{
 			"vids": [
 				{
+					"user": "CaustiX",
+					"link": "https://www.youtube.com/watch?v=ZB-OUceNcAs",
+					"percent": 100,
+					"hz": "PC - High Refresh Rate"
+				},
+				{
 					"user": "SoulSilver Jr.",
 					"link": "https://www.youtube.com/watch?v=_fXU0PhC75o",
 					"percent": 100,
@@ -1116,12 +1122,6 @@ const d = {
 				{
 					"user": "LongHunter",
 					"link": "https://www.youtube.com/watch?v=3G7IagyLd2E",
-					"percent": 100,
-					"hz": "PC - High Refresh Rate"
-				},
-				{
-					"user": "CaustiX",
-					"link": "https://www.youtube.com/watch?v=ZB-OUceNcAs",
 					"percent": 100,
 					"hz": "PC - High Refresh Rate"
 				},
